@@ -1,4 +1,7 @@
 # Weather Forecasting Web Application
+
+![Weather App Demo](./assets/Weather.png)
+
 This Weather Forecasting Web Application provides users with real-time weather updates and detailed forecasts for any location worldwide. Designed to be simple and user-friendly, the application leverages the OpenWeather API to fetch accurate and up-to-date weather information.
 
 ## Features
