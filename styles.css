@@ -19,28 +19,25 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  animation: changeBackground 20s infinite;
+  /* animation: changeBackground 20s infinite; */
 }
 
 @keyframes changeBackground {
   0% {
-    background-image: url("assets/bg.jpg");
-  }
-  20% {
     background-image: url("assets/bg1.jpg");
   }
-  40% {
+  /* 20% {
     background-image: url("assets/bg2.jpg");
   }
-  60% {
+  40% {
     background-image: url("assets/bg3.jpg");
   }
-  80% {
+  60% {
     background-image: url("assets/bg4.jpg");
   }
-  100% {
+  80% {
     background-image: url("assets/bg5.jpg");
-  }
+  } */
 }
 
 body::before {
